@@ -1,0 +1,16 @@
+[
+  {
+    "identity": "07854a9ce5:0:760544bef560c0f1794af8db30ce6655ae6fdab66c777fadfd5fbc3e6671c15d4bd99f7cd20d7bd470353879d7b21677097fd64d81a7092a9ac19b1411af1934",
+    "stableEndpoints": [
+      "1.my.bootstrap.node/9993" // or add other ip/alias to this node
+    ]
+  },
+  {
+    "identity": "17854a9ce5:0:760544bef56080f1794af8db30ce6655ae6fdab66c777fadfd5fbc3e6671c15d4bd99f7cd20d7bd470353879d7b21677097fd64d81a7092a9ac19b1411af1934",
+    "stableEndpoints": [
+      "11.22.33.44",
+      "2.my.bootstrap.node/9993" // or add other ip/alias to this node
+    ]
+  }
+  // or add other planet nodes
+]
